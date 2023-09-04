@@ -1,5 +1,4 @@
-# How-To-WWW by Marvin/Madu
-
+![Image](./logo.svg)
 ## Inhaltsverzeichnis
 
 ### [1. Kapitel - Einführung](1.%20Kapitel/1.%20Kapitel.md)

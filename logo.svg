@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.26 47.17">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .03em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 21.78px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: white;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        font-family: Bely-Regular, Bely;
+        font-size: 7.7px;
+      }
+
+      .cls-5 {
+        font-size: 15.78px;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <text class="cls-3" transform="translate(24.87 17.84)"><tspan x="0" y="0">How To</tspan></text>
+    <text class="cls-5" transform="translate(0 35.61)"><tspan x="0" y="0">World-Wide-Web</tspan></text>
+    <text class="cls-4" transform="translate(33.47 45.07)"><tspan class="cls-2" x="0" y="0">B</tspan><tspan class="cls-6" x="4.59" y="0">y </tspan><tspan class="cls-8" x="9.88" y="0">M</tspan><tspan x="16.88" y="0">a</tspan><tspan class="cls-7" x="20.2" y="0">d</tspan><tspan class="cls-6" x="24.18" y="0">u/</tspan><tspan class="cls-2" x="31.35" y="0">M</tspan><tspan class="cls-6" x="38.34" y="0">a</tspan><tspan class="cls-1" x="41.66" y="0">r</tspan><tspan class="cls-6" x="44.38" y="0">vin</tspan></text>
+  </g>
+</svg>
