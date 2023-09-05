@@ -6,7 +6,7 @@
 - [1.0 Wer bin ich?](./1.%20Kapitel/1.0%20Wer%20bin%20ich.md)
 - [1.1 Was ist dieses Buch?](./1.%20Kapitel/1.1%20Was%20ist%20dieses%20Buch.md)
 - [1.2 Was ist das Internet?](./1.%20Kapitel/1.2%20Was%20ist%20das%20Internet.md)
-- 1.3 Techstack HTML, CSS, Javascript
+- [1.3 Techstack HTML, CSS und Javascript](./1.%20Kapitel/1.3%20Techstack%20HTML,%20CSS%20und%20Javascript.md)
 - 1.4 Benötigte Software
 - 1.6 Was tun bei Problemen?
 
