@@ -1,4 +1,4 @@
-![Image](./logo.svg)
+![Logo](./logo.svg)
 ## Inhaltsverzeichnis
 
 ### [1. Kapitel - Einführung](1.%20Kapitel/1.%20Kapitel.md)
@@ -10,9 +10,9 @@
 - [1.4 Benötigte Software](./1.%20Kapitel/1.4%20Benötigte%20Software.md)
 - [1.5 Was tun bei Problemen?](./1.%20Kapitel/1.5%20Was%20tun%20bei%20Problemen.md)
 
-### 2. Kapitel - HTML
+### [2. Kapitel - HTML](./2.%20Kapitel/2.%20Kapitel.md)
 
-- 2.0 Was ist HTML + Entstehungsgeschichte
+- [2.0 Was ist HTML + Entstehungsgeschichte](2.%20Kapitel/2.0%20Was%20ist%20HTML%20+%20Entstehungsgeschichte.md)
 - 2.1 Die erste Website
 - 2.2 HTML Tags und Attribute
 - 2.3 Das HTML Grundgerüst
